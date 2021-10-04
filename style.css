@@ -1,0 +1,17 @@
+figure {
+    text-align: left;
+}
+
+html {
+    background-color: deeppink;
+}
+
+ul {
+    color: darkblue;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+
+}
